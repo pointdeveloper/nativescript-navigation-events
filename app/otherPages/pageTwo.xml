@@ -1,0 +1,10 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" 
+	navigatingTo="onNavigatingTo"
+	navigatedTo="onNavigatedTo"
+	navigatedFrom="onNavigatedFrom"
+	navigatingFrom="onNavigatingFrom">
+
+  <StackLayout>
+    <Label text="This Is Second Page" class="title"/>
+  </StackLayout>
+</Page>
